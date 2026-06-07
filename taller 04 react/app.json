@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Taller 04 Expo CRUD",
+    "slug": "taller-04-expo-crud",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.epn.taller04expocrud"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      }
+    }
+  }
+}
